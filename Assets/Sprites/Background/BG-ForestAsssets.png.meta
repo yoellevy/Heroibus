@@ -1,0 +1,954 @@
+fileFormatVersion: 2
+guid: 650a8ee155c954f43a86bb46d4d71900
+timeCreated: 1537822246
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BG-ForestAsssets_0
+    21300002: BG-ForestAsssets_1
+    21300004: BG-ForestAsssets_2
+    21300006: BG-ForestAsssets_3
+    21300008: BG-ForestAsssets_4
+    21300010: BG-ForestAsssets_5
+    21300012: BG-ForestAsssets_6
+    21300014: BG-ForestAsssets_7
+    21300016: BG-ForestAsssets_8
+    21300018: BG-ForestAsssets_9
+    21300020: BG-ForestAsssets_10
+    21300022: BG-ForestAsssets_11
+    21300024: BG-ForestAsssets_12
+    21300026: BG-ForestAsssets_13
+    21300028: BG-ForestAsssets_14
+    21300030: BG-ForestAsssets_15
+    21300032: BG-ForestAsssets_16
+    21300034: BG-ForestAsssets_17
+    21300036: BG-ForestAsssets_18
+    21300038: BG-ForestAsssets_19
+    21300040: BG-ForestAsssets_20
+    21300042: BG-ForestAsssets_21
+    21300044: BG-ForestAsssets_22
+    21300046: BG-ForestAsssets_23
+    21300048: BG-ForestAsssets_24
+    21300050: BG-ForestAsssets_25
+    21300052: BG-ForestAsssets_26
+    21300054: BG-ForestAsssets_27
+    21300056: BG-ForestAsssets_28
+    21300058: BG-ForestAsssets_29
+    21300060: BG-ForestAsssets_30
+    21300062: BG-ForestAsssets_31
+    21300064: BG-ForestAsssets_32
+    21300066: BG-ForestAsssets_33
+    21300068: BG-ForestAsssets_34
+    21300070: BG-ForestAsssets_35
+    21300072: BG-ForestAsssets_36
+    21300074: BG-ForestAsssets_37
+    21300076: BG-ForestAsssets_38
+    21300078: BG-ForestAsssets_39
+    21300080: BG-ForestAsssets_40
+    21300082: BG-ForestAsssets_41
+    21300084: BG-ForestAsssets_42
+    21300086: BG-ForestAsssets_43
+    21300088: BG-ForestAsssets_44
+    21300090: BG-ForestAsssets_45
+    21300092: BG-ForestAsssets_46
+    21300094: BG-ForestAsssets_47
+    21300096: BG-ForestAsssets_48
+    21300098: BG-ForestAsssets_49
+    21300100: BG-ForestAsssets_50
+    21300102: BG-ForestAsssets_51
+    21300104: BG-ForestAsssets_52
+    21300106: BG-ForestAsssets_53
+    21300108: BG-ForestAsssets_54
+    21300110: BG-ForestAsssets_55
+    21300112: BG-ForestAsssets_56
+    21300114: BG-ForestAsssets_57
+    21300116: BG-ForestAsssets_58
+    21300118: BG-ForestAsssets_59
+    21300120: BG-ForestAsssets_60
+    21300122: BG-ForestAsssets_61
+    21300124: BG-ForestAsssets_62
+    21300126: BG-ForestAsssets_63
+    21300128: BG-ForestAsssets_64
+    21300130: BG-ForestAsssets_65
+    21300132: BG-ForestAsssets_66
+    21300134: BG-ForestAsssets_67
+    21300136: BG-ForestAsssets_68
+    21300138: BG-ForestAsssets_69
+    21300140: BG-ForestAsssets_70
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG-ForestAsssets_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1495
+        width: 447
+        height: 466
+      alignment: 9
+      pivot: {x: 0.5, y: 0.014432588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109.05103, y: 233}
+        - {x: -223.5, y: 142.05898}
+        - {x: -223.5, y: -166.36494}
+        - {x: -168.2029, y: -232.71196}
+        - {x: 97.08422, y: -232.71196}
+        - {x: 204.63306, y: -196.84871}
+        - {x: 213.59546, y: -162.77863}
+        - {x: 213.59546, y: 233}
+      - - {x: 222.55786, y: 59.573505}
+        - {x: 217.18042, y: 54.19402}
+        - {x: 217.18042, y: 52.400856}
+        - {x: 220.76538, y: 48.814533}
+        - {x: 223.5, y: 48.814533}
+        - {x: 223.5, y: 50.607697}
+        - {x: 223.5, y: 57.780346}
+        - {x: 223.5, y: 59.573505}
+      - - {x: 195.67065, y: 168.9564}
+        - {x: 192.0857, y: 165.37009}
+        - {x: 192.0857, y: 161.78377}
+        - {x: 195.67065, y: 158.19743}
+        - {x: 199.25562, y: 158.19743}
+        - {x: 202.84058, y: 161.78377}
+        - {x: 202.84058, y: 165.37009}
+        - {x: 199.25562, y: 168.9564}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_11
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1522
+        width: 347
+        height: 529
+      alignment: 9
+      pivot: {x: 0.5088121, y: 0.014457371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 147.43332, y: 234.50938}
+        - {x: 102.621315, y: 264.5}
+        - {x: -13.889918, y: 264.5}
+        - {x: -173.42068, y: 150.23076}
+        - {x: -173.42068, y: -55.982914}
+        - {x: -137.57108, y: -210.19487}
+        - {x: -126.81619, y: -233.50598}
+        - {x: -53.32449, y: -263.98975}
+        - {x: 23.752172, y: -263.98975}
+        - {x: 172.52806, y: -229.91966}
+        - {x: 173.5, y: -208.40172}
+        - {x: 173.5, y: 177.12819}
+      - - {x: 77.52659, y: 259.61365}
+        - {x: 86.48899, y: 263.19998}
+        - {x: 86.48899, y: 264.5}
+        - {x: 72.14915, y: 264.5}
+        - {x: 72.14915, y: 264.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_12
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1502
+        width: 484
+        height: 523
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01473363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129.16483, y: 261.5}
+        - {x: -240.29861, y: 218.99236}
+        - {x: -242, y: 195.68124}
+        - {x: -242, y: -254.4025}
+        - {x: -208.03397, y: -261.5}
+        - {x: 207.8215, y: -261.5}
+        - {x: 242, y: -256.19565}
+        - {x: 242, y: 159.81801}
+        - {x: 16.026093, y: 261.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_13
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 1655
+        width: 190
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.712074, y: 108.5}
+        - {x: -28.26986, y: 108.5}
+        - {x: -73.08187, y: 20.049622}
+        - {x: -94.59164, y: -42.71106}
+        - {x: -94.59164, y: -69.6085}
+        - {x: -85.629234, y: -74.98798}
+        - {x: -78.45931, y: -73.194824}
+        - {x: -82.04427, y: -87.54012}
+        - {x: -58.742027, y: -105.47174}
+        - {x: 47.01432, y: -105.47174}
+        - {x: 95, y: -69.6085}
+        - {x: 95, y: 64.87868}
+        - {x: 93.61881, y: 77.43082}
+      - - {x: -53.364586, y: -82.16063}
+        - {x: -62.32699, y: -76.78114}
+        - {x: -58.742027, y: -80.36747}
+        - {x: -49.779625, y: -80.36747}
+        - {x: -40.817223, y: -82.16063}
+        - {x: -28.26986, y: -87.54012}
+        - {x: -19.307457, y: -87.54012}
+        - {x: -40.817223, y: -85.746956}
+        - {x: -42.609703, y: -83.9538}
+      - - {x: -56.949547, y: -51.676872}
+        - {x: -65.91195, y: -49.88371}
+        - {x: -58.742027, y: -62.43585}
+        - {x: -47.987144, y: -69.6085}
+      - - {x: 72.10905, y: -55.2632}
+        - {x: 72.10905, y: -39.124737}
+        - {x: 73.90153, y: -37.331573}
+        - {x: 73.90153, y: -51.676872}
+        - {x: 70.31657, y: -57.05636}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_18
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1678
+        width: 157
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.7395288, y: 94.5}
+        - {x: -69.959694, y: 57.87786}
+        - {x: -50.242405, y: -12.05547}
+        - {x: -48.449924, y: -13.848633}
+        - {x: -48.449924, y: -21.021282}
+        - {x: -46.657444, y: -29.987095}
+        - {x: -43.072483, y: -46.125557}
+        - {x: -48.449924, y: -22.814445}
+        - {x: -48.449924, y: -19.22812}
+        - {x: -53.827366, y: -13.848633}
+        - {x: -62.78977, y: -12.05547}
+        - {x: -78.5, y: -22.814445}
+        - {x: -78.5, y: -67.6435}
+        - {x: -64.58225, y: -94.5}
+        - {x: 59.098904, y: -94.5}
+        - {x: 66.26883, y: -28.193932}
+        - {x: 66.26883, y: 94.5}
+      - - {x: -28.73264, y: -69.43667}
+        - {x: -37.69504, y: -62.264015}
+        - {x: -44.864964, y: -64.05718}
+        - {x: -39.487522, y: -65.85034}
+        - {x: -34.11008, y: -60.470856}
+        - {x: -35.90256, y: -58.677692}
+        - {x: -37.69504, y: -60.470856}
+        - {x: -30.52512, y: -67.6435}
+        - {x: -28.73264, y: -67.6435}
+        - {x: -25.147678, y: -71.22983}
+      - - {x: 75.23123, y: -26.40077}
+        - {x: 59.098904, y: -26.40077}
+        - {x: 42.96658, y: -62.264015}
+        - {x: 42.96658, y: -74.816154}
+        - {x: 59.098904, y: -74.816154}
+        - {x: 75.23123, y: -69.43667}
+        - {x: 78.5, y: -53.298206}
+        - {x: 78.5, y: -31.780256}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_22
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1674
+        width: 150
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 32, z: 23, w: 22}
+      outline:
+      - - {x: -57.063328, y: 70.5}
+        - {x: -74.98814, y: 24.290651}
+        - {x: -74.98814, y: -29.50422}
+        - {x: -69.610695, y: -33.09054}
+        - {x: -46.308445, y: -33.09054}
+        - {x: -39.138523, y: -31.29738}
+        - {x: -35.553562, y: -27.711056}
+        - {x: -35.553562, y: -24.124731}
+        - {x: -42.723484, y: -15.15892}
+        - {x: -42.723484, y: -7.9862704}
+        - {x: -37.346043, y: -16.952082}
+        - {x: -35.553562, y: -18.745245}
+        - {x: -35.553562, y: -25.917894}
+        - {x: -30.17612, y: -31.29738}
+        - {x: -37.346043, y: -33.09054}
+        - {x: -62.44077, y: -33.09054}
+        - {x: -39.138523, y: -67.16063}
+        - {x: 75, y: -67.16063}
+        - {x: 75, y: 70.5}
+      - - {x: 50.4855, y: -11.572596}
+        - {x: 48.69302, y: -13.365758}
+        - {x: 54.070465, y: -20.538406}
+        - {x: 57.655426, y: -20.538406}
+        - {x: 57.655426, y: -18.745245}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_27
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 829
+        width: 447
+        height: 467
+      alignment: 9
+      pivot: {x: 0.50684065, y: 0.008924594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -186.1277, y: 233.5}
+        - {x: -223.5, y: 103.66583}
+        - {x: -223.5, y: -233.44868}
+        - {x: 46.89477, y: -233.44868}
+        - {x: 213.59546, y: -98.96152}
+        - {x: 213.59546, y: 134.1496}
+        - {x: 122.178955, y: 233.5}
+      - - {x: 220.76538, y: 58.836773}
+        - {x: 217.18042, y: 55.250446}
+        - {x: 217.18042, y: 53.457283}
+        - {x: 222.55786, y: 48.077797}
+        - {x: 223.5, y: 49.87096}
+        - {x: 223.5, y: 57.04361}
+        - {x: 223.5, y: 58.836773}
+      - - {x: 197.46313, y: 170.01283}
+        - {x: 192.0857, y: 164.63335}
+        - {x: 192.0857, y: 162.8402}
+        - {x: 195.67065, y: 159.25386}
+        - {x: 199.25562, y: 159.25386}
+        - {x: 202.84058, y: 162.8402}
+        - {x: 202.84058, y: 166.42651}
+        - {x: 199.25562, y: 170.01283}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_28
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 860
+        width: 347
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.007746263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 173.5, y: 211.46155}
+        - {x: 97.24387, y: 264}
+        - {x: -1.3425552, y: 264}
+        - {x: -173.42068, y: 148.70087}
+        - {x: -173.42068, y: -62.892292}
+        - {x: -146.53348, y: -213.51793}
+        - {x: -64.07938, y: -263.72647}
+        - {x: -8.512477, y: -263.72647}
+        - {x: 142.05588, y: -195.5863}
+        - {x: 168.9431, y: -132.82562}
+        - {x: 173.5, y: -79.030754}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_29
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 837
+        width: 484
+        height: 523
+      alignment: 9
+      pivot: {x: 0.5, y: 0.014733513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.2761536, y: 261.5}
+        - {x: -53.880646, y: 261.5}
+        - {x: -109.44754, y: 197.73763}
+        - {x: -121.9949, y: 172.63336}
+        - {x: -177.5618, y: 197.73763}
+        - {x: -242, y: 185.18549}
+        - {x: -242, y: -243.38031}
+        - {x: -177.5618, y: -261.31192}
+        - {x: 141.49973, y: -261.31192}
+        - {x: 242, y: -236.20766}
+        - {x: 242, y: 93.734215}
+        - {x: 198.8591, y: 176.21968}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_40
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 661
+        width: 102
+        height: 102
+      alignment: 9
+      pivot: {x: 0.48003313, y: 0.04080619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.978138, y: 51}
+        - {x: -51, y: 33.39316}
+        - {x: -51, y: -4.263248}
+        - {x: -26.430773, y: -50.885468}
+        - {x: 45.268448, y: -50.885468}
+        - {x: 51, y: -29.367521}
+        - {x: 51, y: 33.39316}
+        - {x: 20.173721, y: 51}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_41
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 659
+        width: 124
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5164224, y: 0.01866381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.283333, y: 82.5}
+        - {x: -62, y: 60.98038}
+        - {x: -62, y: -48.402523}
+        - {x: -40.660774, y: -82.47261}
+        - {x: 54.34069, y: -82.47261}
+        - {x: 62, y: -77.093124}
+        - {x: 62, y: 55.60089}
+        - {x: 9.528679, y: 82.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_42
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 655
+        width: 219
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5092985, y: 0.032002136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.346884, y: 80.5}
+        - {x: -53.72978, y: 70.22221}
+        - {x: -109.29668, y: 20.013668}
+        - {x: -109.29668, y: -46.33334}
+        - {x: -64.484665, y: -80.40342}
+        - {x: 100.423546, y: -80.40342}
+        - {x: 109.5, y: -42.747013}
+        - {x: 109.5, y: 77.39487}
+        - {x: 98.631065, y: 80.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_43
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 649
+        width: 172
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5236788, y: 0.01866381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.979374, y: 81.46412}
+        - {x: -33.526737, y: 82.5}
+        - {x: -85.508675, y: 82.5}
+        - {x: -85.508675, y: -81.71365}
+        - {x: 27.4176, y: -81.71365}
+        - {x: 74.022095, y: -72.74784}
+        - {x: 86, y: -36.884598}
+        - {x: 86, y: 22.28976}
+        - {x: 43.549923, y: 49.187195}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_44
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 100
+        width: 447
+        height: 466
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0013089159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -144.90065, y: 233}
+        - {x: -223.5, y: 21.411129}
+        - {x: -223.5, y: -161.49142}
+        - {x: -202.26003, y: -188.38887}
+        - {x: -80.371346, y: -233}
+        - {x: 70.197014, y: -233}
+        - {x: 213.59546, y: -154.31879}
+        - {x: 213.59546, y: 231.21112}
+        - {x: 192.0857, y: 233}
+      - - {x: 220.76538, y: 59.06754}
+        - {x: 217.18042, y: 55.481213}
+        - {x: 217.18042, y: 53.68805}
+        - {x: 222.55786, y: 48.308563}
+        - {x: 223.5, y: 50.101727}
+        - {x: 223.5, y: 57.274376}
+        - {x: 223.5, y: 59.06754}
+      - - {x: 197.46313, y: 170.2436}
+        - {x: 192.0857, y: 164.86412}
+        - {x: 192.0857, y: 163.07095}
+        - {x: 195.67065, y: 159.48463}
+        - {x: 199.25562, y: 159.48463}
+        - {x: 202.84058, y: 163.07095}
+        - {x: 202.84058, y: 166.65727}
+        - {x: 199.25562, y: 170.2436}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_45
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 132
+        width: 347
+        height: 527
+      alignment: 9
+      pivot: {x: 0.5088121, y: 0.006812224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.1350358, y: 263.5}
+        - {x: -146.53348, y: 143.65558}
+        - {x: -173.42068, y: 120.34446}
+        - {x: -173.42068, y: 23.513695}
+        - {x: -139.36356, y: -213.18373}
+        - {x: -80.2117, y: -263.39227}
+        - {x: -10.304957, y: -263.39227}
+        - {x: 102.621315, y: -232.90852}
+        - {x: 173.5, y: -195.2521}
+        - {x: 173.5, y: 235.10686}
+        - {x: 63.186745, y: 263.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_46
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 112
+        width: 484
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.007945868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 202.44406, y: -155.18118}
+        - {x: 195.27414, y: -155.18118}
+        - {x: 198.8591, y: -155.18118}
+        - {x: 218.57639, y: -149.8017}
+        - {x: 242, y: -115.73161}
+        - {x: 242, y: 165.79488}
+        - {x: 116.405, y: 261}
+        - {x: -138.12723, y: 261}
+        - {x: -242, y: 99.44787}
+        - {x: -242, y: -260.97775}
+        - {x: 186.31174, y: -260.97775}
+        - {x: 231.12375, y: -201.8034}
+        - {x: 231.12375, y: -167.73332}
+        - {x: 214.99142, y: -160.56067}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_47
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 269
+        width: 190
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: -16.112823}
+        - {x: 90.03385, y: 77.131615}
+        - {x: 9.3722315, y: 108.5}
+        - {x: -22.892418, y: 108.5}
+        - {x: -26.477379, y: 95.06324}
+        - {x: -71.28939, y: 34.095722}
+        - {x: -94.59164, y: -19.699148}
+        - {x: -94.59164, y: -71.70086}
+        - {x: -89.214195, y: -75.28718}
+        - {x: -94.59164, y: -89.63248}
+        - {x: -94.59164, y: -96.80513}
+        - {x: -64.11947, y: -105.77094}
+        - {x: 52.39176, y: -105.77094}
+        - {x: 75.69401, y: -96.80513}
+        - {x: 95, y: -59.14872}
+        - {x: 95, y: -16.112823}
+      - - {x: -46.194664, y: -86.04616}
+        - {x: -47.987144, y: -84.25299}
+        - {x: -51.572105, y: -84.25299}
+        - {x: -56.949547, y: -80.666664}
+        - {x: -60.534508, y: -80.666664}
+        - {x: -58.742027, y: -82.45983}
+        - {x: -49.779625, y: -82.45983}
+        - {x: -35.43978, y: -86.04616}
+        - {x: -31.85482, y: -86.04616}
+        - {x: -21.099937, y: -91.425644}
+        - {x: -13.930016, y: -89.63248}
+        - {x: -31.85482, y: -87.83932}
+        - {x: -33.6473, y: -86.04616}
+      - - {x: -58.742027, y: -59.14872}
+        - {x: -67.70443, y: -50.182907}
+        - {x: -69.49691, y: -51.97607}
+        - {x: -67.70443, y: -53.769234}
+        - {x: -60.534508, y: -48.389744}
+        - {x: -62.32699, y: -53.769234}
+        - {x: -60.534508, y: -55.562393}
+        - {x: -60.534508, y: -59.14872}
+        - {x: -55.157066, y: -64.528206}
+        - {x: -53.364586, y: -62.735043}
+      - - {x: 72.10905, y: -57.355556}
+        - {x: 72.10905, y: -41.217094}
+        - {x: 73.90153, y: -39.423935}
+        - {x: 75.69401, y: -46.596584}
+        - {x: 70.31657, y: -59.14872}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_51
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 280
+        width: 161
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.35524, y: 98}
+        - {x: -34.52516, y: 97.097435}
+        - {x: -75.75221, y: 16.405127}
+        - {x: -47.072525, y: -12.285471}
+        - {x: -47.072525, y: -19.45812}
+        - {x: -47.072525, y: -17.664959}
+        - {x: -54.242447, y: -10.492309}
+        - {x: -59.61989, y: -8.699146}
+        - {x: -80.5, y: -23.044445}
+        - {x: -80.5, y: -71.45983}
+        - {x: -39.902603, y: -94.77094}
+        - {x: 40.75902, y: -94.77094}
+        - {x: 58.683826, y: -89.39145}
+        - {x: 67.646225, y: -30.217094}
+        - {x: 67.646225, y: 98}
+      - - {x: -27.35524, y: -67.873505}
+        - {x: -34.52516, y: -60.700855}
+        - {x: -39.902603, y: -62.49402}
+        - {x: -38.110123, y: -64.28718}
+        - {x: -32.73268, y: -58.907692}
+        - {x: -34.52516, y: -58.907692}
+        - {x: -30.9402, y: -66.080345}
+        - {x: -21.977798, y: -69.666664}
+      - - {x: 58.683826, y: -24.837608}
+        - {x: 44.343983, y: -58.907692}
+        - {x: 44.343983, y: -73.25299}
+        - {x: 56.891346, y: -73.25299}
+        - {x: 80.5, y: -60.700855}
+        - {x: 80.5, y: -26.63077}
+        - {x: 78.40111, y: -24.837608}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_14
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 994
+        width: 194
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.099981, y: -89.07006}
+        - {x: -38.024788, y: -89.07006}
+        - {x: -39.81727, y: -87.2769}
+        - {x: -25.477423, y: -89.07006}
+        - {x: -18.3075, y: -89.07006}
+        - {x: -16.51502, y: -90.86323}
+        - {x: 15.749628, y: -90.86323}
+        - {x: 80.27892, y: -83.690575}
+        - {x: 96.41125, y: -67.55212}
+        - {x: 96.41125, y: 38.24446}
+        - {x: 83.863884, y: 84.866684}
+        - {x: 30.089472, y: 109.970955}
+        - {x: -45.19471, y: 109.970955}
+        - {x: -97, y: 27.485489}
+        - {x: -97, y: -74.72476}
+        - {x: -82.8368, y: -74.72476}
+        - {x: -81.04432, y: -69.345276}
+        - {x: -82.8368, y: -80.104256}
+        - {x: -82.8368, y: -87.2769}
+        - {x: -70.28944, y: -99.82904}
+        - {x: -59.534554, y: -107.001686}
+        - {x: -0.38269633, y: -107.001686}
+        - {x: 3.2022648, y: -94.449554}
+        - {x: -3.9676573, y: -90.86323}
+        - {x: -18.3075, y: -90.86323}
+      - - {x: -63.119514, y: -58.586304}
+        - {x: -64.911995, y: -58.586304}
+        - {x: -57.742073, y: -65.75896}
+        - {x: -55.949593, y: -63.96579}
+      - - {x: 67.73156, y: -56.79314}
+        - {x: 67.73156, y: -40.654682}
+        - {x: 69.52404, y: -38.86152}
+        - {x: 71.31652, y: -46.03417}
+        - {x: 65.93908, y: -58.586304}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_15
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 1008
+        width: 169
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.390529, y: 95.28036}
+        - {x: -82.85606, y: 46.86497}
+        - {x: -82.85606, y: 34.312836}
+        - {x: -45.213963, y: -17.688871}
+        - {x: -41.629, y: -17.688871}
+        - {x: -41.629, y: -24.86152}
+        - {x: -39.83652, y: -33.82733}
+        - {x: -36.25156, y: -49.965794}
+        - {x: -41.629, y: -44.586308}
+        - {x: -41.629, y: -23.06836}
+        - {x: -45.213963, y: -17.688871}
+        - {x: -52.383884, y: -14.102548}
+        - {x: -70.30869, y: -24.86152}
+        - {x: -82.85606, y: -35.620495}
+        - {x: -82.85606, y: -44.586308}
+        - {x: -81.063576, y: -49.965794}
+        - {x: -75.686134, y: -48.17263}
+        - {x: -72.10117, y: -44.586308}
+        - {x: -73.893654, y: -48.17263}
+        - {x: -77.478615, y: -62.51793}
+        - {x: -48.798923, y: -100.17434}
+        - {x: 31.862698, y: -100.17434}
+        - {x: 42.61758, y: -98.38118}
+        - {x: 71.29727, y: -46.37947}
+        - {x: 73.08975, y: 0.2427511}
+        - {x: 73.08975, y: 95.28036}
+      - - {x: -20.119238, y: -78.656395}
+        - {x: -21.911718, y: -73.2769}
+        - {x: -29.08164, y: -66.104256}
+        - {x: -36.25156, y: -67.897415}
+        - {x: -32.6666, y: -69.69058}
+        - {x: -27.28916, y: -64.3111}
+        - {x: -29.08164, y: -64.3111}
+        - {x: -25.49668, y: -71.48374}
+        - {x: -16.534277, y: -75.07007}
+        - {x: -11.156835, y: -76.86323}
+      - - {x: 83.844635, y: -30.241009}
+        - {x: 69.50479, y: -30.241009}
+        - {x: 67.71231, y: -32.034172}
+        - {x: 49.787502, y: -69.69058}
+        - {x: 49.787502, y: -76.86323}
+        - {x: 53.372463, y: -78.656395}
+        - {x: 65.91983, y: -78.656395}
+        - {x: 69.50479, y: -76.86323}
+        - {x: 84.5, y: -60.72477}
+        - {x: 84.5, y: -37.41366}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_26
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 283
+        width: 167
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.174187, y: -37.079464}
+        - {x: 38.796745, y: -42.45895}
+        - {x: 35.211784, y: -47.83844}
+        - {x: 33.419304, y: -53.217926}
+        - {x: 45.966667, y: -60.390575}
+        - {x: 78.231316, y: -42.45895}
+        - {x: 78.231316, y: 66.92395}
+        - {x: -47.24232, y: 66.92395}
+        - {x: -59.789684, y: 63.337627}
+        - {x: -75.922005, y: -3.0093803}
+        - {x: -75.922005, y: -38.872627}
+        - {x: -65.16712, y: -40.66579}
+        - {x: -56.204723, y: -38.872627}
+        - {x: -38.27992, y: -38.872627}
+        - {x: -34.694958, y: -35.286304}
+        - {x: -34.694958, y: -31.699978}
+        - {x: -36.48744, y: -26.320492}
+        - {x: -34.694958, y: -26.320492}
+        - {x: -34.694958, y: -33.49314}
+        - {x: -29.317514, y: -38.872627}
+        - {x: -36.48744, y: -40.66579}
+        - {x: -49.0348, y: -42.45895}
+        - {x: -56.204723, y: -44.252113}
+        - {x: -43.65736, y: -65.770065}
+        - {x: -14.977672, y: -74.73587}
+        - {x: 11.909536, y: -74.73587}
+        - {x: 17.286978, y: -72.94271}
+        - {x: 26.24938, y: -69.356384}
+        - {x: 31.626822, y: -47.83844}
+      - - {x: 51.34411, y: -19.147842}
+        - {x: 49.55163, y: -20.941004}
+        - {x: 58.51403, y: -26.320492}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BG-ForestAsssets_30
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 1009
+        width: 154
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.82539, y: 67.58977}
+        - {x: -74.19561, y: 67.58977}
+        - {x: -77, y: 51.451305}
+        - {x: -77, y: -36.41365}
+        - {x: -70.61065, y: -39.999973}
+        - {x: -41.930958, y: -38.206814}
+        - {x: -38.345997, y: -34.620487}
+        - {x: -38.345997, y: -31.034164}
+        - {x: -40.138477, y: -25.654676}
+        - {x: -38.345997, y: -25.654676}
+        - {x: -38.345997, y: -32.827328}
+        - {x: -34.761036, y: -38.206814}
+        - {x: -59.855762, y: -41.793137}
+        - {x: -72.40313, y: -57.9316}
+        - {x: -32.968555, y: -74.07006}
+        - {x: 42.315624, y: -74.07006}
+        - {x: 70.995316, y: -52.552113}
+        - {x: 74.58028, y: -47.172623}
+        - {x: 74.58028, y: 44.278656}
+      - - {x: 49.485546, y: -23.861515}
+        - {x: 47.693066, y: -18.482027}
+        - {x: 45.900585, y: -20.27519}
+        - {x: 54.862988, y: -25.654676}
+        - {x: 53.070507, y: -23.861515}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b8a72959b3b026478ca143c7e76442e, type: 3}
+  m_Name: Whip
+  m_EditorClassIdentifier: 
+  _name: Whip
+  _upperRangeEnhancer: 1.2
+  _lowerRangeEnhancer: 1
+  _criticalEnhancementRatio: 2
+  _criticalEnhancementProb: 0.1
+  _mpDemand: 0
+  _isPureEffect: 0
+  _effects: []

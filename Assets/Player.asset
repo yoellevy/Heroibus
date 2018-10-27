@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3760ec1c1452d1a4d88340482b0f2106, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  _name: Amnon
+  _exp: 170
+  _hp: 40
+  MaxHP: 40
+  _mp: 15
+  MaxMP: 15
+  Strength: 5
+  Def: 10
+  Speed: 12
+  DefaultSpeed: 12
+  Weapon: {fileID: 11400000, guid: df9698814d4cc444d8f4879be8dc37c3, type: 2}
+  Attacks:
+  - {fileID: 11400000, guid: ee645be74ca1d4d4e9ac073b72c235ab, type: 2}
+  - {fileID: 11400000, guid: 05569e4a98768ac4b829214ab4449aa4, type: 2}
+  - {fileID: 11400000, guid: 7b06dbd171cf3c54c907acf3d97d86c1, type: 2}
+  Potions:
+  - {fileID: 11400000, guid: 5072ce231dc083046bc823352d2051a4, type: 2}
+  - {fileID: 11400000, guid: 6e396ab674f933240a38181ef3938c53, type: 2}
+  - {fileID: 11400000, guid: b19dd74007d3c414185b8f7ed202a6cb, type: 2}

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - TurnBasedSystem
+  - PlayerParty
+  - CompanionUnit
+  - PlayerUnit
+  - EnemyUnits
+  - CompanionHP
+  - EnemyUnit
+  - PlayTurn
+  - PlayerMP
+  - PlayerHP
+  - ItemsOptions
+  - AttackOptions
+  - Flip
+  - DeadUnit
+  - BossHP
+  - YouDied
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - World
+  - Companion
+  - Interaction
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3233779473
+    locked: 0
+  - name: Companion
+    uniqueID: 1917272895
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HUD
+    uniqueID: 199558217
+    locked: 0

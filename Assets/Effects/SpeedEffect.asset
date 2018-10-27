@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a27c233dc5907b1428663dd1e5c0f54e, type: 3}
+  m_Name: SpeedEffect
+  m_EditorClassIdentifier: 
+  _name: Name
+  _value: 4
+  _defaultDuration: 3
+  _duration: 1
+  _playerParty: {fileID: 1495814366444168, guid: ecc3edd68096e284a8d2dd3815df85bf,
+    type: 2}
